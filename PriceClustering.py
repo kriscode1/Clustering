@@ -8,7 +8,7 @@ To use:
 history = [(1, 20.00, ...), (2, 20.01, ...), (10, 20.10, ...), 
            (11, 20.08, ...)]
 2. Call detect_clusters(history, timeDist, priceDist, minPoints) with desired 
-constraints. 
+constraints.
 3. detect_clusters returns a list of lists, where each sublist is a cluster.
 '''
 
